@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+local.properties
+
+# IDE settings
+.idea/
+*.iml
+
+# Keystore
+*.jks
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

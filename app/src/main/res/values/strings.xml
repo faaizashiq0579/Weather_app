@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather report</string>
+    <string name="facebook_app_id">9037144463044736</string>
+    <string name="fb_login_protocol_scheme">fb9037144463044736</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
